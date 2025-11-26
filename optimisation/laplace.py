@@ -1,3 +1,4 @@
+import jax.numpy as jnp
 from typing import Callable
 import scipy
 import numpy as np
